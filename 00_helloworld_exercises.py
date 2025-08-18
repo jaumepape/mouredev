@@ -1,5 +1,7 @@
 # 1. Imprime "¡Hola Mundo!" por consola.
 
+print("¡Hola Mundo!")
+
 # 2. Escribe un comentario de una sola línea explicando qué hace el código del Ejercicio 1.
 
 # 3. Imprime tu nombre y edad en la misma línea utilizando la función print.
