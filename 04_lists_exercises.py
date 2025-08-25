@@ -46,4 +46,13 @@ print(list)
 
 # 9. Concatena las listas [1, 2, 3] y [4, 5, 6] y almacena el resultado en una nueva lista. Imprime la lista resultante.
 
+list1 = [1, 2, 3]
+list2 = [4, 5, 6]
+list3 = list1 + list2
+print(list3)
+
 # 10. Crea una sublista con los elementos de la lista [10, 20, 30, 40, 50] que van desde la posición 1 hasta la 3 (sin incluir la posición 3).
+
+list = [10, 20, 30, 40, 50]
+sublist = list[1:3]
+print(sublist)
