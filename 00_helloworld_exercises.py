@@ -20,25 +20,24 @@ print ("Me llamo Jaume", "tengo 17 años")
 
 # 6. Imprime el resultado de concatenar dos cadenas de texto, por ejemplo: "Hola" y "Mundo".
 
-
+a = "Hola "
+b = "Mundo"
+print(a + b)
 
 # 7. Crea una variable para almacenar tu nombre, otra para tu edad, e imprime ambas en la misma línea.
 
 nombre = "Jaume"
 edad = 17
-
 print(nombre, edad)
 
 # 8. Escribe un programa que solicite al usuario su nombre y lo imprima junto con un saludo.
 
-nombre = int ("Ingrese su nombre")
-print (f'¡Bienvenido {input}!')
+
 
 # 9. Usa print() para mostrar el resultado de la suma de dos números enteros y el tipo de dato resultante.
 
 a= 10
 b= 20
-
 print(a+b)
 
 # 10. Comenta el código del Ejercicio 9, y explica qué hace cada línea usando comentarios de una sola línea.

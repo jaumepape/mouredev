@@ -33,13 +33,27 @@ print(resultado)
 
 a = "apple"
 b = "banana"
-
+print(a > b)
 
 # 7. Realiza una comparación lógica usando and para verificar si el número 10 es mayor que 5 y menor que 20. Imprime el resultado.
 
+a = 20
+b = 5
+c = 10
+print(a > b and a < c)
+
 # 8. Usa el operador or para verificar si el número 7 es menor que 3 o mayor que 5. Imprime el resultado.
 
+a = 7
+b = 3
+c = 5
+print(a < b or a > c)
+
 # 9. Aplica el operador not para invertir el resultado de la comparación 15 > 20. ¿Cuál es el resultado?
+
+a = 15
+b = 20
+print(not a > b)
 
 # 10. Combina operadores aritméticos y lógicos: Verifica si el número resultante de la expresión (5 * 3) + 2 es mayor que 10 y menor que 20. Imprime el resultado.
 
